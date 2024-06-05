@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7keg+PpvKk6WIbllk1Xz/HEJZxUMsqiWvyVY5FI85DY=",
+  "Source": "ImageDownloader",
+  "BasePath": "_content/ImageDownloader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,5 @@
+C:\Users\parsa\source\repos\ImageDownloader\UnitTest\obj\Debug\net8.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\parsa\source\repos\ImageDownloader\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsa\source\repos\ImageDownloader\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\parsa\source\repos\ImageDownloader\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\parsa\source\repos\ImageDownloader\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
